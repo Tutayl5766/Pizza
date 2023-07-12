@@ -1,2 +1,0 @@
-# Pizza
-First Github repository 
